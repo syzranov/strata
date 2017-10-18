@@ -1,0 +1,8 @@
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Release\Cursors\HandCursor.cur
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Release\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Release\UnitTestProject.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Release\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Release\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\obj\Release\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\obj\Release\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\obj\Release\UnitTestProject.pdb

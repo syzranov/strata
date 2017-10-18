@@ -1,0 +1,31 @@
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\UnitTestProject\bin\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\UnitTestProject\bin\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\UnitTestProject\bin\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\UnitTestProject\bin\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\UnitTestProject\bin\Debug\Cursors\HandCursor.cur
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\UnitTestProject\bin\Debug\Cursors\HandCursor.cur
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\UnitTestProject\bin\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\UnitTestProject\bin\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Debug\Cursors\HandCursor.cur
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\bin\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\UnitTestProject\obj\Debug\UnitTestProject.pdb

@@ -1,0 +1,124 @@
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Strata.exe.config
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.AboutForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.ActionToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.ColorsControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.FormCanvas.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.HelpForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.LayersToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.NewEditLayerForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.NewProjectForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.OptionsForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.PencilControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.PencilToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.Properties.Resources.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication2.RoundedButtonControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.StartForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.ToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.csproj.GenerateResource.Cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Strata.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\Strata.exe.config
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.AboutForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.ActionToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.ColorsControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.FormCanvas.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.HelpForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.LayersToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.NewProjectForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.OptionsForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.PencilControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.PencilToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.Properties.Resources.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.StartForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.ToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.csproj.GenerateResource.Cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.EventMonitor.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.EditLayerForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.RoundedButtonControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\obj\Debug\Strata.WorkArea.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3 - Copy\WindowsFormsApplication3\bin\Debug\Cursors\HandCursor.cur
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\bin\Debug\Cursors\HandCursor.cur
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\bin\Debug\Strata.exe.config
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\bin\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\bin\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.AboutForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.ActionToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.ColorsControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.EventMonitor.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.FormCanvas.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.HelpForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.LayersToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.EditLayerForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.NewProjectForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.OptionsForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.PencilControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.PencilToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.Properties.Resources.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.RoundedButtonControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.StartForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.ToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.WorkArea.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.csproj.GenerateResource.Cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata\Strata\obj\Debug\Strata.Layer.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\add23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\add50x50.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\Delete23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\Delete50x50.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\Eraser23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\Eraser50x50.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\hand23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\hand50x50.ico
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\hand50x50.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\icon-close-small.gif
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\move16x16.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\move23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\Palette23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\Palette50x50.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\pencil23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\pencil50x50.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\RecycleBin23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\RecycleBin50x50.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\rotatered.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\rotatered23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\settings23x23.png
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\st.ico
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\images\old\Strata.jpg
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\Cursors\HandCursor.cur
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\Strata.exe.config
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\Strata.exe.manifest
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\Strata.application
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\bin\Debug\Strata.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.AboutForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.ActionToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.ColorsControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.EventMonitor.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.FormCanvas.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.HelpForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.LayersToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.EditLayerForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.NewProjectForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.OptionsForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.PencilControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.PencilToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.Properties.Resources.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.RoundedButtonControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.StartForm.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.ToolWindowControl.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.WorkArea.resources
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.csproj.GenerateResource.Cache
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.exe.manifest
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.application
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.exe
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\Strata - Super\Strata\obj\Debug\Strata.pdb
